@@ -48,4 +48,4 @@ window.onload = function() {
 }
 ```
 
-Check out the [Wiki](https://github.com/Marcotrombino/Pandora2/wiki) to see all documentation
+Check out the [Wiki](https://github.com/Marcotrombino/Pandora2/wiki/Pandora) to see all documentation
