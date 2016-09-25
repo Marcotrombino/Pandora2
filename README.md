@@ -2,7 +2,7 @@
 Edit your images with Javascript like a real DIP software applying adjustments, filters, presets and more. 
 <br>Behind the scene HTML5 Canvas allows to process every single pixel and make awesome effects which you can use with simple lines of code!
 ###What's new
-<br>Built from [Pandora](https://github.com/Marcotrombino/Pandora)'s idea, <b>Pandora2</b> offers developers more flexibility and control. Now you can handle every aspect of your canvas directly from your scripts.
+Built from [Pandora](https://github.com/Marcotrombino/Pandora)'s idea, <b>Pandora2</b> offers developers more flexibility and control. Now you can handle every aspect of your canvas directly from your scripts.
 ##Setup
 Init your Document with a simple line of code:
 ```js
